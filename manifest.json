@@ -1,0 +1,17 @@
+{
+  "name": "reddit",
+  "description": "reddit Launcher",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://*.reddit.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.reddit.com/"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
